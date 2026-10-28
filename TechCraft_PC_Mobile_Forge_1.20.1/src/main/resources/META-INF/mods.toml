@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="techcraft"
+version="0.1.0"
+displayName="TechCraft: PC & Mobile"
+description='''Proyecto inicial de computadoras, periféricos y dispositivos móviles para Minecraft.'''

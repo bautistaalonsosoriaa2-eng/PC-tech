@@ -1,0 +1,1 @@
+Faltan las texturas PNG en textures/item y textures/block. Los modelos JSON ya apuntan a esos nombres.
